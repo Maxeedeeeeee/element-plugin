@@ -1,0 +1,7 @@
+name: opplugin
+version: '1.0-SNAPSHOT'
+main: me.pvpclub.opplugin.Opplugin
+api-version: '1.20'
+authors: [ PvpClub ]
+description: Checks when you are recording
+website: pvpclub.xyz
